@@ -1,5 +1,5 @@
 {
-  "name": "node-lev1",
+  "name": "lev1",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahemadell/node-lev1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ibrahemadell/node-lev1/issues"
+  },
+  "homepage": "https://github.com/ibrahemadell/node-lev1#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
